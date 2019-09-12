@@ -29,13 +29,14 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
-
+[working rotary encoder](https://drive.google.com/file/d/1oizlaBKBPa-WLxRmf7upgwAS2WnnwBhu/view?usp=sharing)
 
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
  
 **b. What song is playing?**
+Starwars
 
 
 ## Part E. Make your own timer
