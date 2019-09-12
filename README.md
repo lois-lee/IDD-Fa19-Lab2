@@ -10,11 +10,18 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+You need both the 5V and 3V voltages for the LCD.
+
 **b. What voltage level do you need to power the display backlight?**
+
+3.3V for the backlight.
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+I didn't connect the ground and power on both sides of the large breadboard at first so the signal didn't carry.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+`lcd.print("hello, world!"); ` to `lcd.print("Lois"); `
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
