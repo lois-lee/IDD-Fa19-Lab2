@@ -7,6 +7,8 @@ Include your responses to the bold questions below. Include snippets of code tha
 **Take a picture of your soldered panel and add it here!**
 
 ## Part B. Writing to the LCD
+
+[](1.png)
  
 **a. What voltage level do you need to power your display?**
 
