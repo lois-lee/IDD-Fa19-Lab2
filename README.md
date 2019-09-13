@@ -4,11 +4,11 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 ## Part A. Solder your LCD panel
 
-[](2.png)
+![](2.png)
 
 ## Part B. Writing to the LCD
 
-[](1.png)
+![](1.png)
  
 **a. What voltage level do you need to power your display?**
 
