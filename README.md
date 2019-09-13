@@ -37,7 +37,7 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
-
+Change the noteDuration variable to half of what it is.
  
 **b. What song is playing?**
 Starwars
@@ -47,4 +47,3 @@ Starwars
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
-**b. Post a link to the completed lab report your class hub GitHub repo.**
