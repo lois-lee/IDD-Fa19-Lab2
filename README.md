@@ -4,7 +4,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 ## Part A. Solder your LCD panel
 
-**Take a picture of your soldered panel and add it here!**
+[](2.png)
 
 ## Part B. Writing to the LCD
 
@@ -24,6 +24,7 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
 `lcd.print("hello, world!"); ` to `lcd.print("Lois"); `
+[LCD displaying name](https://drive.google.com/file/d/1UjGtrRICOlj7UK4lj58Ong_veThMRhL4/view?usp=sharing)
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
@@ -36,6 +37,7 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
  
 **b. What song is playing?**
 Starwars
