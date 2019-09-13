@@ -23,6 +23,7 @@ You need both the 5V and 3V voltages for the LCD.
 I didn't connect the ground and power on both sides of the large breadboard at first so the signal didn't carry.
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
 `lcd.print("hello, world!"); ` to `lcd.print("Lois"); `
 [LCD displaying name](https://drive.google.com/file/d/1UjGtrRICOlj7UK4lj58Ong_veThMRhL4/view?usp=sharing)
  
@@ -32,11 +33,13 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+
 [working rotary encoder](https://drive.google.com/file/d/1oizlaBKBPa-WLxRmf7upgwAS2WnnwBhu/view?usp=sharing)
 
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
 Change the noteDuration variable to half of what it is.
  
 **b. What song is playing?**
