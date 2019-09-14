@@ -30,6 +30,7 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
 [LCD displaying changing sensor value from A0](https://drive.google.com/file/d/10nY--HQq6kHgJg0detcRQ1o02ccEcFo4/view?usp=sharing)
+
 [LCD displaying the value from potentiometer for backlight](https://drive.google.com/file/d/1TRVRLEWVAfv1W8L73NVyGgkljWLOVFCA/view?usp=sharing)
 
 ## Part C. Using a time-based digital sensor
