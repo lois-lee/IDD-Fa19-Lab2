@@ -48,6 +48,7 @@ I didn't connect the ground and power on both sides of the large breadboard at f
 Change the noteDuration variable to half of what it is.
  
 **b. What song is playing?**
+
 Starwars
 
 
