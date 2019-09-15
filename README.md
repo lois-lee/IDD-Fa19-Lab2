@@ -59,5 +59,6 @@ My game is a single player game wherein the timer counts down for 15 seconds and
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
 [Game Code](Timer_lab2.ino)
+
 [Video for Game](https://drive.google.com/file/d/1JvKcSgXH06EJo3OL4Rd9vrif1x3P3f5v/view?usp=sharing)
 
