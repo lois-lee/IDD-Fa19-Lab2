@@ -54,5 +54,9 @@ Starwars
 
 ## Part E. Make your own timer
 
+My game is a single player game wherein the timer counts down for 15 seconds and the player must press the button as many times as possible. The more times you press, the better, and each time you pass a milestone another LED lights up. At the end when time is up, it also tells you how many times you pressed. 
+
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
+[Game Code](Timer_lab2.ino)
 
